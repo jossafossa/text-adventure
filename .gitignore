@@ -1,6 +1,7 @@
-# ignore node_modules
 node_modules
-
-# ignore build
 build
+yarn.lock
+package-lock.json
+
+
 
